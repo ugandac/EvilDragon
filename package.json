@@ -1,18 +1,18 @@
 {
-  "name": "DELTACRASH4.0",
-  "version": "4.0.0",
+  "name": "Evildragon",
+  "version": "1.0.0",
   "description": "Simple Bot Whatsapp With Baileys",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "DELTA",
+  "author": "Arlodragon",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^5.10.0",
-    "axios": "^0.24.0",
+    "axios": "^1.4.0",
     "baileys": "npm:@whiskeysockets/baileys@^6.6.0",
     "canvas-hikki": "github:KirBotz/canvas-hikki",
     "chalk": "^4.1.2",
