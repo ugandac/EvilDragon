@@ -13,7 +13,6 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^5.10.0",
     "axios": "^1.4.0",
-    "@whiskeysockets/baileys" : "^github:WhiskeySockets/Baileys",
     "baileys":"@whiskeysockets/baileys": "^6.6.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.10",
